@@ -1,9 +1,14 @@
 body {
-   background-color: lighblue;
+   background-color: lightcyan;
 
 }
 
-Img {
-Width: 50px;
+ul{
+
+ display: flex;
+ justify-content: space-between;
+ list-style-type: center;
+
+
 
 }
